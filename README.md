@@ -2,9 +2,9 @@
 
 I'm a high school student in Shenzhen, China.
 
-I love python, js, (and all kinds of technologies).
+I love python, js, _(and all kinds of technologies)_.
 
-Of course, I'm the cofounder of @openteens, and a contributor to many open source projects.
+Of course, I'm the co-founder of **@Openteens**, and contributor to many open source projects.
 
 ---
 
