@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm a high school student in Shenzhen, China.
+
+I love python, js, (and all kinds of technologies).
+
+Of course, I'm the cofounder of @openteens, and a contributor to many open source projects.
+
+
+### I'm currently working on ...
+- [SearXNG](https://github.com/searxng/searxng)
+- OpenTeens Website
+- one-social
+- simple-git
+
 <!--
 **BernieHuang2008/BernieHuang2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
