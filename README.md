@@ -6,6 +6,8 @@ I love python, js, (and all kinds of technologies).
 
 Of course, I'm the cofounder of @openteens, and a contributor to many open source projects.
 
+---
+
 Besides these, some brilliant ideas of mine are now become technologies, such as ...
 
 ### Technologies invented by me
