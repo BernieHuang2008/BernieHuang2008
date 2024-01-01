@@ -18,10 +18,9 @@ Besides these, some brilliant ideas of mine are now become technologies, such as
 
 I'm a busy man, but I'd be glad to help anyone!
 ### I'm currently working on ...
+- [MercurySQL](https://github.com/berniehuang2008/MercurySQL)
 - [SearXNG](https://github.com/searxng/searxng)
 - [OpenTeens Website](https://github.com/openteenscore/openteenscore.github.io)
-- [one-social](https://github.com/BernieHuang2008/one-social)
-- [simple-git](https://github.com/BernieHuang2008/simple-git)
 
 <!--
 **BernieHuang2008/BernieHuang2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
