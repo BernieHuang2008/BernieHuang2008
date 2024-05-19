@@ -1,3 +1,7 @@
+
+![Contribution Chart](https://github-readme-stats.vercel.app/api?username=berniehuang2008&theme=chartreuse-dark)
+
+
 ### Hi there 👋
 
 I'm a high school student in Shenzhen, China.
