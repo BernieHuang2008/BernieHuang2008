@@ -1,5 +1,5 @@
 
-![Contribution Chart](https://github-readme-stats.vercel.app/api?username=berniehuang2008&theme=chartreuse-dark)
+[![Contribution Chart](https://github-readme-stats.vercel.app/api?username=berniehuang2008&theme=chartreuse-dark)](https://github.com/Berniehuang2008)
 
 
 ### Hi there 👋
